@@ -1,2 +1,2 @@
-# nlw-ecoleta
-aplicação desenvolvida durante a "next level week" da rocketseat
+# Ecoleta
+Seu marketplace de coleta de resíduos
