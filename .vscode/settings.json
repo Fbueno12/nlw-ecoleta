@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "${workspaceFolder:nlw-ecoleta}/server/src/database/database.sqlite",
+            "driver": "SQLite",
+            "name": "local",
+            "previewLimit": 50
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
